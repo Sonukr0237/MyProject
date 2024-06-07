@@ -1,0 +1,1 @@
+# Print multiplication table of user input number by using recursion.
