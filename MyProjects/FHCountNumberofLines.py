@@ -1,5 +1,4 @@
 # 5.Write a Python program to count the number of lines in a text file.
-
 def countLineinFiles(filePath):
 
     with open(filePath, 'r') as file:
