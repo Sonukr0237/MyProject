@@ -28,5 +28,5 @@ print(rightJoin)
 
 # concatenate DataFrame
 
-concateData = pd.concat((userUsage, userDevice))
-print(concateData)
+concatData = pd.concat((userUsage, userDevice))
+print(concatData)
